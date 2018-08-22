@@ -1,6 +1,6 @@
 This application was a group project for Summer 2017 CSE-3310 Fundamentals of Software Engineering.
 
-The application was built using a Virtual Machine running Ubuntu 12.04 LTS
+The application was built using a Virtual Machine running Ubuntu 16.04.1 LTS
 
 To run the application:
  1. Download the repository and execute the Makefile using the "make" command from a terminal.
