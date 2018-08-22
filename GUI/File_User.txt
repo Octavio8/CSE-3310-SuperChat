@@ -1,0 +1,11 @@
+UUID                      Nick                 Year              Captain
+
+186347274                   aa                 2017                 pike
+1121906791                   bb                 2040                 kirk
+1607419428                   cc                 2030                other
+1109201101                   dd                 2020                 pike
+413960671                   ee                 2034                other
+291549474                   ff                 2024               picard
+1240424010                   gg                 2037                 kirk
+1420961387                   hh                 2025               picard
+377773063                   ll                 2030                other

@@ -1,0 +1,288 @@
+========================================================================================
+Report      : INFO
+Date        : Tue Jul 25 21:40:38 CDT 2017
+Description : u_domainNew:Database allocated on heap
+Node        : Jhin
+Process     : SuperChat <3098>
+Thread      : spliced 7f77ac6f3700
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/user::u_domain::u_domainNew/u_domain.c/706/0/1501036838.984817665
+========================================================================================
+Report      : INFO
+Date        : Tue Jul 25 21:40:38 CDT 2017
+Description : ---------------------------------------------------------------
+              -- The service is using the following configuration settings --
+              ---------------------------------------------------------------
+              Domain (id)          : ospl_sp_ddsi (0)
+              Storage              : 10240 Kbytes
+              Storage threshold    : 1024 Kbytes
+              Storage address      : Not available
+              Locking              : default
+              Memory mode          : Heap memory
+              Builtin topics       : true
+              Priority inheritance : false
+Node        : Jhin
+Process     : SuperChat <3098>
+Thread      : spliced 7f77ac6f3700
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/The OpenSplice domain service/u_domain.c/827/0/1501036838.999018091
+========================================================================================
+Report      : INFO
+Date        : Tue Jul 25 21:40:38 CDT 2017
+Description : Service cmsoap disabled
+Node        : Jhin
+Process     : SuperChat <3098>
+Thread      : spliced 7f77ac6f3700
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/OpenSplice domain service/sr_componentInfo.c/439/0/1501036838.999403792
+========================================================================================
+Report      : INFO
+Date        : Tue Jul 25 21:40:39 CDT 2017
+Description : ++++++++++++++++++++++++++++++++++++++++++++++++
+              ++ The service 'splicedaemon' is now operational. 
+              ++++++++++++++++++++++++++++++++++++++++++++++++
+Node        : Jhin
+Process     : SuperChat <3098>
+Thread      : spliced 7f77ac6f3700
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/v_serviceChangeState/v_service.c/329/0/1501036839.001858671
+========================================================================================
+Report      : INFO
+Date        : Tue Jul 25 21:40:39 CDT 2017
+Description : ++++++++++++++++++++++++++++++++++++++++++++++++
+              ++ The service 'ddsi2' is now operational. 
+              ++++++++++++++++++++++++++++++++++++++++++++++++
+Node        : Jhin
+Process     : SuperChat <3098>
+Thread      : ddsi2 7f7783c8d700
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/v_serviceChangeState/v_service.c/329/0/1501036839.018101288
+========================================================================================
+Report      : INFO
+Date        : Tue Jul 25 21:40:39 CDT 2017
+Description : The durability service can by identified by ID: 97329835
+Node        : Jhin
+Process     : SuperChat <3098>
+Thread      : durability 7f7783fff700
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/DurabilityService/d_durability.c/476/0/1501036839.130204507
+========================================================================================
+Report      : INFO
+Date        : Tue Jul 25 21:40:46 CDT 2017
+Description : ++++++++++++++++++++++++++++++++++++++++++++++++
+              ++ The service 'durability' is now operational. 
+              ++++++++++++++++++++++++++++++++++++++++++++++++
+Node        : Jhin
+Process     : SuperChat <3098>
+Thread      : durability 7f7783fff700
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/v_serviceChangeState/v_service.c/329/0/1501036846.154299525
+========================================================================================
+Report      : INFO
+Date        : Sun Jul 30 10:47:18 CDT 2017
+Description : u_domainNew:Database allocated on heap
+Node        : Jhin
+Process     : SuperChat <7992>
+Thread      : spliced 7f168c38e700
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/user::u_domain::u_domainNew/u_domain.c/706/0/1501429638.776564647
+========================================================================================
+Report      : INFO
+Date        : Sun Jul 30 10:47:18 CDT 2017
+Description : ---------------------------------------------------------------
+              -- The service is using the following configuration settings --
+              ---------------------------------------------------------------
+              Domain (id)          : ospl_sp_ddsi (0)
+              Storage              : 10240 Kbytes
+              Storage threshold    : 1024 Kbytes
+              Storage address      : Not available
+              Locking              : default
+              Memory mode          : Heap memory
+              Builtin topics       : true
+              Priority inheritance : false
+Node        : Jhin
+Process     : SuperChat <7992>
+Thread      : spliced 7f168c38e700
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/The OpenSplice domain service/u_domain.c/827/0/1501429638.819696505
+========================================================================================
+Report      : INFO
+Date        : Sun Jul 30 10:47:18 CDT 2017
+Description : Service cmsoap disabled
+Node        : Jhin
+Process     : SuperChat <7992>
+Thread      : spliced 7f168c38e700
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/OpenSplice domain service/sr_componentInfo.c/439/0/1501429638.820249914
+========================================================================================
+Report      : INFO
+Date        : Sun Jul 30 10:47:18 CDT 2017
+Description : ++++++++++++++++++++++++++++++++++++++++++++++++
+              ++ The service 'splicedaemon' is now operational. 
+              ++++++++++++++++++++++++++++++++++++++++++++++++
+Node        : Jhin
+Process     : SuperChat <7992>
+Thread      : spliced 7f168c38e700
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/v_serviceChangeState/v_service.c/329/0/1501429638.821049866
+========================================================================================
+Report      : INFO
+Date        : Sun Jul 30 10:47:18 CDT 2017
+Description : ++++++++++++++++++++++++++++++++++++++++++++++++
+              ++ The service 'ddsi2' is now operational. 
+              ++++++++++++++++++++++++++++++++++++++++++++++++
+Node        : Jhin
+Process     : SuperChat <7992>
+Thread      : ddsi2 7f1683924700
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/v_serviceChangeState/v_service.c/329/0/1501429638.868783585
+========================================================================================
+Report      : INFO
+Date        : Sun Jul 30 10:47:19 CDT 2017
+Description : The durability service can by identified by ID: 1538924658
+Node        : Jhin
+Process     : SuperChat <7992>
+Thread      : durability 7f168815d700
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/DurabilityService/d_durability.c/476/0/1501429639.375898717
+========================================================================================
+Report      : INFO
+Date        : Sun Jul 30 10:47:26 CDT 2017
+Description : ++++++++++++++++++++++++++++++++++++++++++++++++
+              ++ The service 'durability' is now operational. 
+              ++++++++++++++++++++++++++++++++++++++++++++++++
+Node        : Jhin
+Process     : SuperChat <7992>
+Thread      : durability 7f168815d700
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/v_serviceChangeState/v_service.c/329/0/1501429646.389740419
+========================================================================================
+Report      : INFO
+Date        : Sun Jul 30 10:48:37 CDT 2017
+Description : u_domainNew:Database allocated on heap
+Node        : Jhin
+Process     : SuperChat <21290>
+Thread      : spliced 7fa03a077700
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/user::u_domain::u_domainNew/u_domain.c/706/0/1501429717.246184750
+========================================================================================
+Report      : INFO
+Date        : Sun Jul 30 10:48:37 CDT 2017
+Description : ---------------------------------------------------------------
+              -- The service is using the following configuration settings --
+              ---------------------------------------------------------------
+              Domain (id)          : ospl_sp_ddsi (0)
+              Storage              : 10240 Kbytes
+              Storage threshold    : 1024 Kbytes
+              Storage address      : Not available
+              Locking              : default
+              Memory mode          : Heap memory
+              Builtin topics       : true
+              Priority inheritance : false
+Node        : Jhin
+Process     : SuperChat <21290>
+Thread      : spliced 7fa03a077700
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/The OpenSplice domain service/u_domain.c/827/0/1501429717.256986276
+========================================================================================
+Report      : INFO
+Date        : Sun Jul 30 10:48:37 CDT 2017
+Description : Service cmsoap disabled
+Node        : Jhin
+Process     : SuperChat <21290>
+Thread      : spliced 7fa03a077700
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/OpenSplice domain service/sr_componentInfo.c/439/0/1501429717.257393539
+========================================================================================
+Report      : INFO
+Date        : Sun Jul 30 10:48:37 CDT 2017
+Description : ++++++++++++++++++++++++++++++++++++++++++++++++
+              ++ The service 'splicedaemon' is now operational. 
+              ++++++++++++++++++++++++++++++++++++++++++++++++
+Node        : Jhin
+Process     : SuperChat <21290>
+Thread      : spliced 7fa03a077700
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/v_serviceChangeState/v_service.c/329/0/1501429717.258417305
+========================================================================================
+Report      : INFO
+Date        : Sun Jul 30 10:48:37 CDT 2017
+Description : ++++++++++++++++++++++++++++++++++++++++++++++++
+              ++ The service 'ddsi2' is now operational. 
+              ++++++++++++++++++++++++++++++++++++++++++++++++
+Node        : Jhin
+Process     : SuperChat <21290>
+Thread      : ddsi2 7fa03566a700
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/v_serviceChangeState/v_service.c/329/0/1501429717.277794999
+========================================================================================
+Report      : INFO
+Date        : Sun Jul 30 10:48:37 CDT 2017
+Description : The durability service can by identified by ID: 203992533
+Node        : Jhin
+Process     : SuperChat <21290>
+Thread      : durability 7fa0359dc700
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/DurabilityService/d_durability.c/476/0/1501429717.687300649
+========================================================================================
+Report      : INFO
+Date        : Sun Jul 30 10:48:44 CDT 2017
+Description : ++++++++++++++++++++++++++++++++++++++++++++++++
+              ++ The service 'durability' is now operational. 
+              ++++++++++++++++++++++++++++++++++++++++++++++++
+Node        : Jhin
+Process     : SuperChat <21290>
+Thread      : durability 7fa0359dc700
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/v_serviceChangeState/v_service.c/329/0/1501429724.700897591
+========================================================================================
+Report      : INFO
+Date        : Sun Jul 30 10:49:39 CDT 2017
+Description : u_domainNew:Database allocated on heap
+Node        : Jhin
+Process     : SuperChat <25900>
+Thread      : spliced 7fced1cac700
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/user::u_domain::u_domainNew/u_domain.c/706/0/1501429779.043181800
+========================================================================================
+Report      : INFO
+Date        : Sun Jul 30 10:49:39 CDT 2017
+Description : ---------------------------------------------------------------
+              -- The service is using the following configuration settings --
+              ---------------------------------------------------------------
+              Domain (id)          : ospl_sp_ddsi (0)
+              Storage              : 10240 Kbytes
+              Storage threshold    : 1024 Kbytes
+              Storage address      : Not available
+              Locking              : default
+              Memory mode          : Heap memory
+              Builtin topics       : true
+              Priority inheritance : false
+Node        : Jhin
+Process     : SuperChat <25900>
+Thread      : spliced 7fced1cac700
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/The OpenSplice domain service/u_domain.c/827/0/1501429779.055016582
+========================================================================================
+Report      : INFO
+Date        : Sun Jul 30 10:49:39 CDT 2017
+Description : Service cmsoap disabled
+Node        : Jhin
+Process     : SuperChat <25900>
+Thread      : spliced 7fced1cac700
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/OpenSplice domain service/sr_componentInfo.c/439/0/1501429779.055558141
+========================================================================================
+Report      : INFO
+Date        : Sun Jul 30 10:49:39 CDT 2017
+Description : ++++++++++++++++++++++++++++++++++++++++++++++++
+              ++ The service 'splicedaemon' is now operational. 
+              ++++++++++++++++++++++++++++++++++++++++++++++++
+Node        : Jhin
+Process     : SuperChat <25900>
+Thread      : spliced 7fced1cac700
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/v_serviceChangeState/v_service.c/329/0/1501429779.056834230
+========================================================================================
+Report      : INFO
+Date        : Sun Jul 30 10:49:39 CDT 2017
+Description : ++++++++++++++++++++++++++++++++++++++++++++++++
+              ++ The service 'ddsi2' is now operational. 
+              ++++++++++++++++++++++++++++++++++++++++++++++++
+Node        : Jhin
+Process     : SuperChat <25900>
+Thread      : ddsi2 7fcecd29f700
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/v_serviceChangeState/v_service.c/329/0/1501429779.069815666
+========================================================================================
+Report      : INFO
+Date        : Sun Jul 30 10:49:39 CDT 2017
+Description : The durability service can by identified by ID: 524736021
+Node        : Jhin
+Process     : SuperChat <25900>
+Thread      : durability 7fcecd611700
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/DurabilityService/d_durability.c/476/0/1501429779.079436442
+========================================================================================
+Report      : INFO
+Date        : Sun Jul 30 10:49:46 CDT 2017
+Description : ++++++++++++++++++++++++++++++++++++++++++++++++
+              ++ The service 'durability' is now operational. 
+              ++++++++++++++++++++++++++++++++++++++++++++++++
+Node        : Jhin
+Process     : SuperChat <25900>
+Thread      : durability 7fcecd611700
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/v_serviceChangeState/v_service.c/329/0/1501429786.096440973

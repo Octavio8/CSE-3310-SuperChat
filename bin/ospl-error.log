@@ -1,0 +1,709 @@
+========================================================================================
+Report      : ERROR
+Date        : Mon Jul 24 17:07:59 CDT 2017
+Description : ddsi_conn_write failed -1
+
+Node        : Jhin
+Process     : SuperChat <5184>
+Thread      : tev 7fbcdb008700
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/ddsi2/q_xmsg.c/1051/0/1500934079.394939008
+========================================================================================
+Report      : ERROR
+Date        : Mon Jul 24 17:07:59 CDT 2017
+Description : ddsi_conn_write failed -1
+
+Node        : Jhin
+Process     : SuperChat <5184>
+Thread      : tev 7fbcdb008700
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/ddsi2/q_xmsg.c/1051/0/1500934079.400447602
+========================================================================================
+Report      : ERROR
+Date        : Mon Jul 24 17:08:00 CDT 2017
+Description : ddsi_conn_write failed -1
+
+Node        : Jhin
+Process     : SuperChat <5184>
+Thread      : tev 7fbcdb008700
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/ddsi2/q_xmsg.c/1051/0/1500934080.568522444
+========================================================================================
+Report      : ERROR
+Date        : Mon Jul 24 17:08:00 CDT 2017
+Description : ddsi_conn_write failed -1
+
+Node        : Jhin
+Process     : SuperChat <5184>
+Thread      : tev 7fbcdb008700
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/ddsi2/q_xmsg.c/1051/0/1500934080.581491722
+========================================================================================
+Report      : ERROR
+Date        : Mon Jul 24 17:08:00 CDT 2017
+Description : ddsi_conn_write failed -1
+
+Node        : Jhin
+Process     : SuperChat <5184>
+Thread      : tev 7fbcdb008700
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/ddsi2/q_xmsg.c/1051/0/1500934080.587127433
+========================================================================================
+Report      : ERROR
+Date        : Mon Jul 24 17:08:29 CDT 2017
+Description : ddsi_conn_write failed -1
+
+Node        : Jhin
+Process     : SuperChat <5184>
+Thread      : tev 7fbcdb008700
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/ddsi2/q_xmsg.c/1051/0/1500934109.395106598
+========================================================================================
+Report      : ERROR
+Date        : Mon Jul 24 17:08:29 CDT 2017
+Description : ddsi_conn_write failed -1
+
+Node        : Jhin
+Process     : SuperChat <5184>
+Thread      : tev 7fbcdb008700
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/ddsi2/q_xmsg.c/1051/0/1500934109.400814709
+========================================================================================
+Report      : ERROR
+Date        : Mon Jul 24 17:08:30 CDT 2017
+Description : ddsi_conn_write failed -1
+
+Node        : Jhin
+Process     : SuperChat <5184>
+Thread      : tev 7fbcdb008700
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/ddsi2/q_xmsg.c/1051/0/1500934110.569005117
+========================================================================================
+Report      : ERROR
+Date        : Mon Jul 24 17:08:30 CDT 2017
+Description : ddsi_conn_write failed -1
+
+Node        : Jhin
+Process     : SuperChat <5184>
+Thread      : tev 7fbcdb008700
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/ddsi2/q_xmsg.c/1051/0/1500934110.581999552
+========================================================================================
+Report      : ERROR
+Date        : Mon Jul 24 17:08:30 CDT 2017
+Description : ddsi_conn_write failed -1
+
+Node        : Jhin
+Process     : SuperChat <5184>
+Thread      : tev 7fbcdb008700
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/ddsi2/q_xmsg.c/1051/0/1500934110.587624706
+========================================================================================
+Report      : ERROR
+Date        : Mon Jul 24 18:20:07 CDT 2017
+Description : ddsi_conn_write failed -1
+
+Node        : Jhin
+Process     : SuperChat <8435>
+Thread      : tev 7fd034e83700
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/ddsi2/q_xmsg.c/1051/0/1500938407.464447445
+========================================================================================
+Report      : ERROR
+Date        : Mon Jul 24 18:20:07 CDT 2017
+Description : ddsi_conn_write failed -1
+
+Node        : Jhin
+Process     : SuperChat <8435>
+Thread      : tev 7fd034e83700
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/ddsi2/q_xmsg.c/1051/0/1500938407.465548307
+========================================================================================
+Report      : ERROR
+Date        : Mon Jul 24 18:20:08 CDT 2017
+Description : ddsi_conn_write failed -1
+
+Node        : Jhin
+Process     : SuperChat <8435>
+Thread      : tev 7fd034e83700
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/ddsi2/q_xmsg.c/1051/0/1500938408.639650365
+========================================================================================
+Report      : ERROR
+Date        : Mon Jul 24 18:20:08 CDT 2017
+Description : ddsi_conn_write failed -1
+
+Node        : Jhin
+Process     : SuperChat <8435>
+Thread      : tev 7fd034e83700
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/ddsi2/q_xmsg.c/1051/0/1500938408.650531496
+========================================================================================
+Report      : ERROR
+Date        : Mon Jul 24 18:20:08 CDT 2017
+Description : ddsi_conn_write failed -1
+
+Node        : Jhin
+Process     : SuperChat <8435>
+Thread      : tev 7fd034e83700
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/ddsi2/q_xmsg.c/1051/0/1500938408.657854600
+========================================================================================
+Report      : ERROR
+Date        : Mon Jul 24 18:20:37 CDT 2017
+Description : ddsi_conn_write failed -1
+
+Node        : Jhin
+Process     : SuperChat <8435>
+Thread      : tev 7fd034e83700
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/ddsi2/q_xmsg.c/1051/0/1500938437.464141173
+========================================================================================
+Report      : ERROR
+Date        : Mon Jul 24 18:20:37 CDT 2017
+Description : ddsi_conn_write failed -1
+
+Node        : Jhin
+Process     : SuperChat <8435>
+Thread      : tev 7fd034e83700
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/ddsi2/q_xmsg.c/1051/0/1500938437.465540819
+========================================================================================
+Report      : ERROR
+Date        : Mon Jul 24 18:20:38 CDT 2017
+Description : ddsi_conn_write failed -1
+
+Node        : Jhin
+Process     : SuperChat <8435>
+Thread      : tev 7fd034e83700
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/ddsi2/q_xmsg.c/1051/0/1500938438.640112918
+========================================================================================
+Report      : ERROR
+Date        : Mon Jul 24 18:20:38 CDT 2017
+Description : ddsi_conn_write failed -1
+
+Node        : Jhin
+Process     : SuperChat <8435>
+Thread      : tev 7fd034e83700
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/ddsi2/q_xmsg.c/1051/0/1500938438.651031526
+========================================================================================
+Report      : ERROR
+Date        : Mon Jul 24 18:20:38 CDT 2017
+Description : ddsi_conn_write failed -1
+
+Node        : Jhin
+Process     : SuperChat <8435>
+Thread      : tev 7fd034e83700
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/ddsi2/q_xmsg.c/1051/0/1500938438.658314081
+========================================================================================
+Report      : ERROR
+Date        : Mon Jul 24 18:21:07 CDT 2017
+Description : ddsi_conn_write failed -1
+
+Node        : Jhin
+Process     : SuperChat <8435>
+Thread      : tev 7fd034e83700
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/ddsi2/q_xmsg.c/1051/0/1500938467.464253929
+========================================================================================
+Report      : ERROR
+Date        : Mon Jul 24 18:21:07 CDT 2017
+Description : ddsi_conn_write failed -1
+
+Node        : Jhin
+Process     : SuperChat <8435>
+Thread      : tev 7fd034e83700
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/ddsi2/q_xmsg.c/1051/0/1500938467.465644923
+========================================================================================
+Report      : ERROR
+Date        : Mon Jul 24 18:21:08 CDT 2017
+Description : ddsi_conn_write failed -1
+
+Node        : Jhin
+Process     : SuperChat <8435>
+Thread      : tev 7fd034e83700
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/ddsi2/q_xmsg.c/1051/0/1500938468.640582566
+========================================================================================
+Report      : ERROR
+Date        : Mon Jul 24 18:21:08 CDT 2017
+Description : ddsi_conn_write failed -1
+
+Node        : Jhin
+Process     : SuperChat <8435>
+Thread      : tev 7fd034e83700
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/ddsi2/q_xmsg.c/1051/0/1500938468.651558534
+========================================================================================
+Report      : ERROR
+Date        : Mon Jul 24 18:21:08 CDT 2017
+Description : ddsi_conn_write failed -1
+
+Node        : Jhin
+Process     : SuperChat <8435>
+Thread      : tev 7fd034e83700
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/ddsi2/q_xmsg.c/1051/0/1500938468.658606940
+========================================================================================
+Report      : ERROR
+Date        : Mon Jul 24 18:21:37 CDT 2017
+Description : ddsi_conn_write failed -1
+
+Node        : Jhin
+Process     : SuperChat <8435>
+Thread      : tev 7fd034e83700
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/ddsi2/q_xmsg.c/1051/0/1500938497.464778732
+========================================================================================
+Report      : ERROR
+Date        : Mon Jul 24 18:21:37 CDT 2017
+Description : ddsi_conn_write failed -1
+
+Node        : Jhin
+Process     : SuperChat <8435>
+Thread      : tev 7fd034e83700
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/ddsi2/q_xmsg.c/1051/0/1500938497.465919759
+========================================================================================
+Report      : ERROR
+Date        : Mon Jul 24 18:21:38 CDT 2017
+Description : ddsi_conn_write failed -1
+
+Node        : Jhin
+Process     : SuperChat <8435>
+Thread      : tev 7fd034e83700
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/ddsi2/q_xmsg.c/1051/0/1500938498.641032174
+========================================================================================
+Report      : ERROR
+Date        : Mon Jul 24 18:21:38 CDT 2017
+Description : ddsi_conn_write failed -1
+
+Node        : Jhin
+Process     : SuperChat <8435>
+Thread      : tev 7fd034e83700
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/ddsi2/q_xmsg.c/1051/0/1500938498.651647617
+========================================================================================
+Report      : ERROR
+Date        : Mon Jul 24 18:21:38 CDT 2017
+Description : ddsi_conn_write failed -1
+
+Node        : Jhin
+Process     : SuperChat <8435>
+Thread      : tev 7fd034e83700
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/ddsi2/q_xmsg.c/1051/0/1500938498.659053813
+========================================================================================
+Report      : ERROR
+Date        : Mon Jul 24 18:22:07 CDT 2017
+Description : ddsi_conn_write failed -1
+
+Node        : Jhin
+Process     : SuperChat <8435>
+Thread      : tev 7fd034e83700
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/ddsi2/q_xmsg.c/1051/0/1500938527.464973853
+========================================================================================
+Report      : ERROR
+Date        : Mon Jul 24 18:22:07 CDT 2017
+Description : ddsi_conn_write failed -1
+
+Node        : Jhin
+Process     : SuperChat <8435>
+Thread      : tev 7fd034e83700
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/ddsi2/q_xmsg.c/1051/0/1500938527.466332674
+========================================================================================
+Report      : ERROR
+Date        : Mon Jul 24 18:22:08 CDT 2017
+Description : ddsi_conn_write failed -1
+
+Node        : Jhin
+Process     : SuperChat <8435>
+Thread      : tev 7fd034e83700
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/ddsi2/q_xmsg.c/1051/0/1500938528.641520847
+========================================================================================
+Report      : ERROR
+Date        : Mon Jul 24 18:22:08 CDT 2017
+Description : ddsi_conn_write failed -1
+
+Node        : Jhin
+Process     : SuperChat <8435>
+Thread      : tev 7fd034e83700
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/ddsi2/q_xmsg.c/1051/0/1500938528.652099689
+========================================================================================
+Report      : ERROR
+Date        : Mon Jul 24 18:22:08 CDT 2017
+Description : ddsi_conn_write failed -1
+
+Node        : Jhin
+Process     : SuperChat <8435>
+Thread      : tev 7fd034e83700
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/ddsi2/q_xmsg.c/1051/0/1500938528.659526080
+========================================================================================
+Report      : ERROR
+Date        : Mon Jul 24 18:22:37 CDT 2017
+Description : ddsi_conn_write failed -1
+
+Node        : Jhin
+Process     : SuperChat <8435>
+Thread      : tev 7fd034e83700
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/ddsi2/q_xmsg.c/1051/0/1500938557.465338180
+========================================================================================
+Report      : ERROR
+Date        : Mon Jul 24 18:22:37 CDT 2017
+Description : ddsi_conn_write failed -1
+
+Node        : Jhin
+Process     : SuperChat <8435>
+Thread      : tev 7fd034e83700
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/ddsi2/q_xmsg.c/1051/0/1500938557.466735607
+========================================================================================
+Report      : ERROR
+Date        : Mon Jul 24 18:22:38 CDT 2017
+Description : ddsi_conn_write failed -1
+
+Node        : Jhin
+Process     : SuperChat <8435>
+Thread      : tev 7fd034e83700
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/ddsi2/q_xmsg.c/1051/0/1500938558.641997521
+========================================================================================
+Report      : ERROR
+Date        : Mon Jul 24 18:22:38 CDT 2017
+Description : ddsi_conn_write failed -1
+
+Node        : Jhin
+Process     : SuperChat <8435>
+Thread      : tev 7fd034e83700
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/ddsi2/q_xmsg.c/1051/0/1500938558.652413063
+========================================================================================
+Report      : ERROR
+Date        : Mon Jul 24 18:22:38 CDT 2017
+Description : ddsi_conn_write failed -1
+
+Node        : Jhin
+Process     : SuperChat <8435>
+Thread      : tev 7fd034e83700
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/ddsi2/q_xmsg.c/1051/0/1500938558.660906236
+========================================================================================
+Report      : ERROR
+Date        : Mon Jul 24 18:23:07 CDT 2017
+Description : ddsi_conn_write failed -1
+
+Node        : Jhin
+Process     : SuperChat <8435>
+Thread      : tev 7fd034e83700
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/ddsi2/q_xmsg.c/1051/0/1500938587.465368588
+========================================================================================
+Report      : ERROR
+Date        : Mon Jul 24 18:23:07 CDT 2017
+Description : ddsi_conn_write failed -1
+
+Node        : Jhin
+Process     : SuperChat <8435>
+Thread      : tev 7fd034e83700
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/ddsi2/q_xmsg.c/1051/0/1500938587.466920074
+========================================================================================
+Report      : ERROR
+Date        : Mon Jul 24 18:23:08 CDT 2017
+Description : ddsi_conn_write failed -1
+
+Node        : Jhin
+Process     : SuperChat <8435>
+Thread      : tev 7fd034e83700
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/ddsi2/q_xmsg.c/1051/0/1500938588.642013840
+========================================================================================
+Report      : ERROR
+Date        : Mon Jul 24 18:23:08 CDT 2017
+Description : ddsi_conn_write failed -1
+
+Node        : Jhin
+Process     : SuperChat <8435>
+Thread      : tev 7fd034e83700
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/ddsi2/q_xmsg.c/1051/0/1500938588.652838966
+========================================================================================
+Report      : ERROR
+Date        : Mon Jul 24 18:23:08 CDT 2017
+Description : ddsi_conn_write failed -1
+
+Node        : Jhin
+Process     : SuperChat <8435>
+Thread      : tev 7fd034e83700
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/ddsi2/q_xmsg.c/1051/0/1500938588.661556100
+========================================================================================
+Report      : ERROR
+Date        : Mon Jul 24 18:23:37 CDT 2017
+Description : ddsi_conn_write failed -1
+
+Node        : Jhin
+Process     : SuperChat <8435>
+Thread      : tev 7fd034e83700
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/ddsi2/q_xmsg.c/1051/0/1500938617.465986414
+========================================================================================
+Report      : ERROR
+Date        : Mon Jul 24 18:23:37 CDT 2017
+Description : ddsi_conn_write failed -1
+
+Node        : Jhin
+Process     : SuperChat <8435>
+Thread      : tev 7fd034e83700
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/ddsi2/q_xmsg.c/1051/0/1500938617.467165386
+========================================================================================
+Report      : ERROR
+Date        : Mon Jul 24 18:23:38 CDT 2017
+Description : ddsi_conn_write failed -1
+
+Node        : Jhin
+Process     : SuperChat <8435>
+Thread      : tev 7fd034e83700
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/ddsi2/q_xmsg.c/1051/0/1500938618.642349333
+========================================================================================
+Report      : ERROR
+Date        : Mon Jul 24 18:23:38 CDT 2017
+Description : ddsi_conn_write failed -1
+
+Node        : Jhin
+Process     : SuperChat <8435>
+Thread      : tev 7fd034e83700
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/ddsi2/q_xmsg.c/1051/0/1500938618.653313998
+========================================================================================
+Report      : ERROR
+Date        : Mon Jul 24 18:23:38 CDT 2017
+Description : ddsi_conn_write failed -1
+
+Node        : Jhin
+Process     : SuperChat <8435>
+Thread      : tev 7fd034e83700
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/ddsi2/q_xmsg.c/1051/0/1500938618.662004660
+========================================================================================
+Report      : ERROR
+Date        : Mon Jul 24 18:24:07 CDT 2017
+Description : ddsi_conn_write failed -1
+
+Node        : Jhin
+Process     : SuperChat <8435>
+Thread      : tev 7fd034e83700
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/ddsi2/q_xmsg.c/1051/0/1500938647.466145888
+========================================================================================
+Report      : ERROR
+Date        : Mon Jul 24 18:24:07 CDT 2017
+Description : ddsi_conn_write failed -1
+
+Node        : Jhin
+Process     : SuperChat <8435>
+Thread      : tev 7fd034e83700
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/ddsi2/q_xmsg.c/1051/0/1500938647.467434904
+========================================================================================
+Report      : ERROR
+Date        : Mon Jul 24 18:24:08 CDT 2017
+Description : ddsi_conn_write failed -1
+
+Node        : Jhin
+Process     : SuperChat <8435>
+Thread      : tev 7fd034e83700
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/ddsi2/q_xmsg.c/1051/0/1500938648.642865531
+========================================================================================
+Report      : ERROR
+Date        : Mon Jul 24 18:24:08 CDT 2017
+Description : ddsi_conn_write failed -1
+
+Node        : Jhin
+Process     : SuperChat <8435>
+Thread      : tev 7fd034e83700
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/ddsi2/q_xmsg.c/1051/0/1500938648.653398328
+========================================================================================
+Report      : ERROR
+Date        : Mon Jul 24 18:24:08 CDT 2017
+Description : ddsi_conn_write failed -1
+
+Node        : Jhin
+Process     : SuperChat <8435>
+Thread      : tev 7fd034e83700
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/ddsi2/q_xmsg.c/1051/0/1500938648.662424675
+========================================================================================
+Report      : ERROR
+Date        : Mon Jul 24 18:24:16 CDT 2017
+Description : ddsi_conn_write failed -1
+
+Node        : Jhin
+Process     : SuperChat <8435>
+Thread      : tev 7fd034e83700
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/ddsi2/q_xmsg.c/1051/0/1500938656.136970307
+========================================================================================
+Report      : ERROR
+Date        : Mon Jul 24 18:24:16 CDT 2017
+Description : ddsi_conn_write failed -1
+
+Node        : Jhin
+Process     : SuperChat <8435>
+Thread      : tev 7fd034e83700
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/ddsi2/q_xmsg.c/1051/0/1500938656.139958569
+========================================================================================
+Report      : ERROR
+Date        : Mon Jul 24 18:24:16 CDT 2017
+Description : ddsi_conn_write failed -1
+
+Node        : Jhin
+Process     : SuperChat <8435>
+Thread      : tev 7fd034e83700
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/ddsi2/q_xmsg.c/1051/0/1500938656.143061050
+========================================================================================
+Report      : ERROR
+Date        : Thu Jul 27 21:46:01 CDT 2017
+Description : ddsi_conn_write failed -1
+
+Node        : Jhin
+Process     : SuperChat <7417>
+Thread      : tev 7fbd8d016700
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/ddsi2/q_xmsg.c/1051/0/1501209961.917266753
+========================================================================================
+Report      : ERROR
+Date        : Thu Jul 27 21:46:02 CDT 2017
+Description : ddsi_conn_write failed -1
+
+Node        : Jhin
+Process     : SuperChat <7417>
+Thread      : tev 7fbd8d016700
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/ddsi2/q_xmsg.c/1051/0/1501209962.261381585
+========================================================================================
+Report      : ERROR
+Date        : Thu Jul 27 21:46:02 CDT 2017
+Description : ddsi_conn_write failed -1
+
+Node        : Jhin
+Process     : SuperChat <7417>
+Thread      : tev 7fbd8d016700
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/ddsi2/q_xmsg.c/1051/0/1501209962.264543718
+========================================================================================
+Report      : ERROR
+Date        : Thu Jul 27 21:46:02 CDT 2017
+Description : ddsi_conn_write failed -1
+
+Node        : Jhin
+Process     : SuperChat <7417>
+Thread      : tev 7fbd8d016700
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/ddsi2/q_xmsg.c/1051/0/1501209962.265419218
+========================================================================================
+Report      : ERROR
+Date        : Thu Jul 27 21:46:02 CDT 2017
+Description : ddsi_conn_write failed -1
+
+Node        : Jhin
+Process     : SuperChat <7417>
+Thread      : xmit.user 7fbd8cfc1700
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/ddsi2/q_xmsg.c/1051/0/1501209962.269896712
+========================================================================================
+Report      : ERROR
+Date        : Thu Jul 27 21:46:02 CDT 2017
+Description : ddsi_conn_write failed -1
+
+Node        : Jhin
+Process     : SuperChat <7417>
+Thread      : xmit.user 7fbd8cfc1700
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/ddsi2/q_xmsg.c/1051/0/1501209962.309308908
+========================================================================================
+Report      : ERROR
+Date        : Thu Jul 27 21:46:02 CDT 2017
+Description : ddsi_conn_write failed -1
+
+Node        : Jhin
+Process     : SuperChat <7417>
+Thread      : tev 7fbd8d016700
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/ddsi2/q_xmsg.c/1051/0/1501209962.317314981
+========================================================================================
+Report      : ERROR
+Date        : Thu Jul 27 21:46:02 CDT 2017
+Description : ddsi_conn_write failed -1
+
+Node        : Jhin
+Process     : SuperChat <7417>
+Thread      : tev 7fbd8d016700
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/ddsi2/q_xmsg.c/1051/0/1501209962.409400652
+========================================================================================
+Report      : ERROR
+Date        : Thu Jul 27 21:46:02 CDT 2017
+Description : ddsi_conn_write failed -1
+
+Node        : Jhin
+Process     : SuperChat <7417>
+Thread      : tev 7fbd8d016700
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/ddsi2/q_xmsg.c/1051/0/1501209962.509640043
+========================================================================================
+Report      : ERROR
+Date        : Thu Jul 27 21:55:03 CDT 2017
+Description : Splice-daemon failed to renew its lease within the configured lease expiry-time (10.000000000). The lease renewal took 540.989771280 s.
+Node        : Jhin
+Process     : SuperChat <7417>
+Thread      : OSPL Lease Renew Thread 7fbd8d272700
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/OpenSplice domain service/spliced.c/153/0/1501210503.259356868
+========================================================================================
+Report      : ERROR
+Date        : Thu Jul 27 21:55:03 CDT 2017
+Description : Durability failed to renew its lease within the configured lease expiry-time (10.000000000). The lease renewal took 540.981025224 s.
+Node        : Jhin
+Process     : SuperChat <7417>
+Thread      : leaseThread 7fbd8cfb0700
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/Durability Service/d_durability.c/182/0/1501210503.267481418
+========================================================================================
+Report      : ERROR
+Date        : Thu Jul 27 21:55:03 CDT 2017
+Description : ddsi_conn_write failed -1
+
+Node        : Jhin
+Process     : SuperChat <7417>
+Thread      : tev 7fbd8d016700
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/ddsi2/q_xmsg.c/1051/0/1501210503.269595431
+========================================================================================
+Report      : ERROR
+Date        : Thu Jul 27 21:55:33 CDT 2017
+Description : ddsi_conn_write failed -1
+
+Node        : Jhin
+Process     : SuperChat <7417>
+Thread      : tev 7fbd8d016700
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/ddsi2/q_xmsg.c/1051/0/1501210533.269776664
+========================================================================================
+Report      : ERROR
+Date        : Thu Jul 27 21:56:03 CDT 2017
+Description : ddsi_conn_write failed -1
+
+Node        : Jhin
+Process     : SuperChat <7417>
+Thread      : tev 7fbd8d016700
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/ddsi2/q_xmsg.c/1051/0/1501210563.269940529
+========================================================================================
+Report      : ERROR
+Date        : Thu Jul 27 21:56:33 CDT 2017
+Description : ddsi_conn_write failed -1
+
+Node        : Jhin
+Process     : SuperChat <7417>
+Thread      : tev 7fbd8d016700
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/ddsi2/q_xmsg.c/1051/0/1501210593.270214802
+========================================================================================
+Report      : ERROR
+Date        : Thu Jul 27 21:57:03 CDT 2017
+Description : ddsi_conn_write failed -1
+
+Node        : Jhin
+Process     : SuperChat <7417>
+Thread      : tev 7fbd8d016700
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/ddsi2/q_xmsg.c/1051/0/1501210623.270647893
+========================================================================================
+Report      : ERROR
+Date        : Thu Jul 27 21:57:33 CDT 2017
+Description : ddsi_conn_write failed -1
+
+Node        : Jhin
+Process     : SuperChat <7417>
+Thread      : tev 7fbd8d016700
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/ddsi2/q_xmsg.c/1051/0/1501210653.270605072
+========================================================================================
+Report      : ERROR
+Date        : Thu Jul 27 21:58:03 CDT 2017
+Description : ddsi_conn_write failed -1
+
+Node        : Jhin
+Process     : SuperChat <7417>
+Thread      : tev 7fbd8d016700
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/ddsi2/q_xmsg.c/1051/0/1501210683.270727367
+========================================================================================
+Report      : ERROR
+Date        : Thu Jul 27 21:58:22 CDT 2017
+Description : ddsi_conn_write failed -1
+
+Node        : Jhin
+Process     : SuperChat <7417>
+Thread      : tev 7fbd8d016700
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/ddsi2/q_xmsg.c/1051/0/1501210702.362407684
+========================================================================================
+Report      : ERROR
+Date        : Thu Jul 27 21:58:22 CDT 2017
+Description : ddsi_conn_write failed -1
+
+Node        : Jhin
+Process     : SuperChat <7417>
+Thread      : tev 7fbd8d016700
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/ddsi2/q_xmsg.c/1051/0/1501210702.365696484
+========================================================================================
+Report      : ERROR
+Date        : Thu Jul 27 21:58:22 CDT 2017
+Description : ddsi_conn_write failed -1
+
+Node        : Jhin
+Process     : SuperChat <7417>
+Thread      : tev 7fbd8d016700
+Internals   : V6.4.140407OSS/3b83e82/3b83e82/ddsi2/q_xmsg.c/1051/0/1501210702.368587830
